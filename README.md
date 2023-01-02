@@ -12,4 +12,4 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![](https://github.com/Robert-octavo/holbertonschool-headphones/blob/master/60df485eb772ecbad54a.jpg)
+![](https://github.com/Robert-octavo/holbertonschool-headphones/blob/master/images/60df485eb772ecbad54a.jpg)
